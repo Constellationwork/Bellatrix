@@ -1,4 +1,6 @@
 # This file for codeowner
 # 
-
+# file/directory   user
+#
 *  @global-veeramaaganti
+*.go veeramaaganti@gmail.com
