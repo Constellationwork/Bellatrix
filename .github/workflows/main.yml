@@ -1,4 +1,4 @@
-- name: Install Maven
+name: Install Maven
   # You may pin to the exact commit or the version.
   # uses: yuzhiyongcn/setup-maven@0c5810c65a0fb6c88b6089724cc47370cf4eaffc
   uses: yuzhiyongcn/setup-maven@v1.0.0
